@@ -3,6 +3,7 @@ public class Sample {
         for(int i = 0; i < 10; i++) {
             System.out.println("Wensen");
             System.out.println("Shrek");
+            System.out.println("Steak");
         }
     }
 }
